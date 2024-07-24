@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Digital Scholarship Workshop Series - Web Scraping
+description: Jupyter Notebooks for exploring the practice and possibilities of web scraping.
+show_downloads: true # shows download links for the repository
+logo: # can easily be replaced with an institutional logo by uploading a new file
