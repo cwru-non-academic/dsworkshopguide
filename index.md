@@ -1,4 +1,4 @@
-# Digital Schoalrship Workshop Series at the Kelvin Smith Library
+# Digital Scholarship Workshop Series at the Kelvin Smith Library
 
 Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed. Web scraping is usually done after a research question has been defined and will be part of the data gathering phase of the research lifecycle.
 
