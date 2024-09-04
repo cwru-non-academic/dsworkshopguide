@@ -4,6 +4,8 @@ These files support the  Digital Scholarship Workshop Series tutorials, which ca
 
 These tutorial is part of a the CWRU Digital Scholarship Workshop Series.  
 
+Please reach out with any questions or technical problems to David Beales, Digital Scholarship Partner, [rdb104@case.edu](mailto:rdb104@case.edu).
+
 ## Run the lesson locally
 
 If you do not want use the cloud options for running the lessons, you can clone the repo and run it locally in an IDE like Visual Studio Code.  
