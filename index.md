@@ -10,7 +10,7 @@ Please reach out with any questions or technical problems to David Beales, Digit
 ### Digital Workshop Series
 
 You can find the complete list of upcoming in-person Digital Scholarship Workshops on the CWRU Campus Groups website under the Kelvin SMmith Library Group.
-[Digital Scholarship Workshop Series at KSL]([mailto:rdb104@case.edu](https://community.case.edu/events_list?topic_tags=1778970&show=upcoming))
+[Digital Scholarship Workshop Series at KSL](https://community.case.edu/events_list?topic_tags=1778970&show=upcoming)
 
 
 ### Some notes on Cloud Patforms Constellate and Binder
