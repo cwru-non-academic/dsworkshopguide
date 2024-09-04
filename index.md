@@ -6,7 +6,8 @@ Please reach out with any questions or technical problems to David Beales, Digit
 
 Here is a list of current and upcoming online resources.
 
-- #### Web Scraping [https://librarybeales.github.io/Web-Scraping/](https://librarybeales.github.io/Web-Scraping/)
+- #### Web Scraping
+  [https://librarybeales.github.io/Web-Scraping/](https://librarybeales.github.io/Web-Scraping/)
   Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed.  This course will walk you through using several different strategies and several different python libraries to scrape    data from the web and analyze it.
 
 
