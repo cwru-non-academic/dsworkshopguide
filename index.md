@@ -26,7 +26,7 @@ Here is a list of current and upcoming online resources.
 
 ### Digital Workshop Series
 
-You can find the complete list of upcoming in-person Digital Scholarship Workshops on the CWRU Campus Groups website under the Kelvin SMmith Library Group.
+You can find the complete list of upcoming in-person Digital Scholarship Workshops on the CWRU Campus Groups website under the Kelvin Smith Library Group.
 [Digital Scholarship Workshop Series at KSL](https://community.case.edu/events_list?topic_tags=1778970&show=upcoming)
 
 
