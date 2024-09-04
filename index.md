@@ -11,6 +11,17 @@ Here is a list of current and upcoming online resources.
 
   Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed.  This course will walk you through using several different strategies and several different python libraries to scrape    data from the web and analyze it.
 
+- #### Exploratory Data Analysis in Python
+  [https://librarybeales.github.io/Exploratory_Data_Analysis/](https://librarybeales.github.io/Exploratory_Data_Analysis/)
+
+  Exploratory Data Analysis, commonly called EDA, is a foundational piece of the data science and research process.   
+
+
+- #### Census Data in R
+  [https://librarybeales.github.io/Web-Scraping/](https://librarybeales.github.io/Census_R/)
+
+  R has powerful packages for exploring, accessing and visaulizing the excellent data provided by the US Census.  This course is a step-by-step example of the process of conencting to the Census Data, finding relevant information, and
+  visualizing that data.
 
 
 
