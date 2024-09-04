@@ -16,12 +16,31 @@ Here is a list of current and upcoming online resources.
 
   Exploratory Data Analysis, commonly called EDA, is a foundational piece of the data science and research process. This tutorial will walk you through the process of exploring a found dataset using python and the pandas library.
 
-- #### Census Data in R
-  [https://librarybeales.github.io/Web-Scraping/](https://librarybeales.github.io/Census_R/)
+- #### Accessing Census Data in R
+  [https://librarybeales.github.io/Census_R/](https://librarybeales.github.io/Census_R/)
 
   R has powerful packages for exploring, accessing and visaulizing the excellent data provided by the US Census.  This course is a step-by-step example of the process of conencting to the Census Data, finding relevant information, and
   visualizing that data.
 
+- #### Mapping Census Data in R
+  [https://librarybeales.github.io/Map_Census_R/](https://librarybeales.github.io/Map_Census_R/)
+
+  COMING SOON!
+
+- #### Intro to Text Analysis with Python
+  [https://librarybeales.github.io/PLACEHOLDER/](https://librarybeales.github.io/PLACEHOLDER)
+
+  COMING SOON!
+
+- #### Intro to Text Analysis with R and TidyText
+  [https://librarybeales.github.io/PLACEHOLDER/](https://librarybeales.github.io/PLACEHOLDER)
+
+  COMING SOON!
+
+- #### Graphing Data with Python and the Plotly Library
+  [https://librarybeales.github.io/PLACEHOLDER/](https://librarybeales.github.io/PLACEHOLDER)
+
+  COMING SOON!
 
 
 ### Digital Workshop Series
