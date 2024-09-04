@@ -4,7 +4,7 @@ In addition to a wide variety of in-person, hands-on, digital scholarship worksh
 
 Here is a list of current and upcoming online resources.
 
-### Web Scraping
+- ### Web Scraping
 [https://librarybeales.github.io/Web-Scraping/](https://librarybeales.github.io/Web-Scraping/)
 Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed. Web scraping is usually done after a research question has been defined and will be part of the data gathering phase of the research lifecycle.  This course will walk you through using several different strategies and several different python libraries to scrape data from the web and analyze it.
 
