@@ -14,7 +14,7 @@ Here is a list of current and upcoming online resources.
 - #### Exploratory Data Analysis in Python
   [https://librarybeales.github.io/Exploratory_Data_Analysis/](https://librarybeales.github.io/Exploratory_Data_Analysis/)
 
-  Exploratory Data Analysis, commonly called EDA, is a foundational piece of the data science and research process.   
+  Exploratory Data Analysis, commonly called EDA, is a foundational piece of the data science and research process. This tutorial will walk you through the process of exploring a found dataset using python and the pandas library.
 
 
 - #### Census Data in R
