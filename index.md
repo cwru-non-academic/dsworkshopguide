@@ -52,10 +52,10 @@ You can find the complete list of upcoming in-person Digital Scholarship Worksho
 
 ### Some notes on Cloud Patforms Constellate and Binder
 
-There are two cloud platforms that you may use to lauch these lessons in the cloud.  Most lessons will have launch buttons for both options in each section of the lesson.
+There are two cloud platforms that you may use to lauch these lessons in the cloud.  Most lessons will have launch buttons for both options for each lesson in the workshop.
 
 Constellate is available to Case Western students, staff, and faculty.  To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a>.
 
 If you are not part of Case you can launch these tutorials using the Launch Binder button.  ![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)  
 
-Any changes you make or work you complete will be deleted when closing the tab or window.  You can, however, download a copy of file you've been working in before closing the browser.  
+Any changes you make or work you complete in Binder will be deleted when closing the tab or window.  You can, however, download a copy of file you've been working in before closing the browser.  
