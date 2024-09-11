@@ -18,8 +18,9 @@ Here is a list of current and upcoming online resources.
 
 - #### Accessing Census Data in R
   [https://librarybeales.github.io/Census_R/](https://librarybeales.github.io/Census_R/)
+  COMING SOON!
 
-  R has powerful packages for exploring, accessing and visaulizing the excellent data provided by the US Census.  This course is a step-by-step example of the process of conencting to the Census Data, finding relevant information, and
+R has powerful packages for exploring, accessing and visaulizing the excellent data provided by the US Census.  This course is a step-by-step example of the process of conencting to the Census Data, finding relevant information, and
   visualizing that data.
 
 - #### Mapping Census Data in R
