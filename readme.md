@@ -1,7 +1,10 @@
 # Digital Scholarship Workshop Series - WORKSHOP TITLE
 
-These files support the WORKSHOP TITLE tutorial, which can be found here. https://librarybeales.github.io/WORKSHOPTITLE.  This tutorial is part of a the CWRU Digital Scholarship Workshop Series.  You can find a directory of the currently available tutorials here:  
+These files support the  Digital Scholarship Workshop Series tutorials, which can be found here. [https://librarybeales.github.io/dsworkshops](https://librarybeales.github.io/dsworkshops/).
 
+These tutorial is part of a the CWRU Digital Scholarship Workshop Series.  
+
+Please reach out with any questions or technical problems to David Beales, Digital Scholarship Partner, [rdb104@case.edu](mailto:rdb104@case.edu).
 
 ## Run the lesson locally
 
